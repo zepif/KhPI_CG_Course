@@ -1,0 +1,135 @@
+# Custom fomatter for C++17 as specified in the OpenHarmony C++ CodeStyle
+# https://gitee.com/openharmony/docs/blob/master/en/contribute/OpenHarmony-cpp-coding-style-guide.md
+
+Language: Cpp
+Standard: c++17
+
+ColumnLimit: 120
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+BreakBeforeBraces: Linux
+
+AlwaysBreakAfterReturnType: None
+AlwaysBreakAfterDefinitionReturnType: None
+
+AlignAfterOpenBracket: Align
+AllowAllParametersOfDeclarationOnNextLine: true
+BinPackParameters: false
+AllowAllArgumentsOnNextLine: false
+
+InsertBraces: true
+
+IndentCaseLabels: true
+IndentCaseBlocks: false
+
+BreakBeforeBinaryOperators: None
+BreakBeforeTernaryOperators: true
+
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+
+BreakConstructorInitializers: BeforeColon
+ConstructorInitializerIndentWidth: 4
+
+PointerAlignment: Right
+ReferenceAlignment: Right
+
+IndentPPDirectives: None
+
+SpaceAfterCStyleCast: false
+SpaceAfterLogicalNot: false
+SpaceAfterTemplateKeyword: false
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeCaseColon: false
+SpaceBeforeCpp11BracedList: false
+SpaceBeforeCtorInitializerColon: true
+SpaceBeforeInheritanceColon: true
+SpaceBeforeParens: ControlStatements
+SpaceBeforeRangeBasedForLoopColon: true
+SpaceInEmptyParentheses: false
+SpacesBeforeTrailingComments: 2
+SpacesInAngles: false
+SpacesInCStyleCastParentheses: false
+SpacesInContainerLiterals: false
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+SpaceBeforeSquareBrackets: false
+SpaceInEmptyBlock: false
+SpaceAroundPointerQualifiers: Default
+
+AccessModifierOffset: -4
+
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+AllowAllConstructorInitializersOnNextLine: true
+
+AlignConsecutiveAssignments: None
+AlignConsecutiveDeclarations: None
+AlignConsecutiveMacros: None
+AlignEscapedNewlines: Right
+AlignOperands: true
+AlignTrailingComments: true
+
+SortIncludes: CaseSensitive
+IncludeBlocks: Preserve
+
+NamespaceIndentation: None
+CompactNamespaces: false
+
+EmptyLineBeforeAccessModifier: LogicalBlock
+MaxEmptyLinesToKeep: 2
+KeepEmptyLinesAtTheStartOfBlocks: false
+
+BraceWrapping:
+  AfterCaseLabel: false
+  AfterClass: false
+  AfterControlStatement: Never
+  AfterEnum: false
+  AfterFunction: true
+  AfterNamespace: false
+  AfterObjCDeclaration: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterExternBlock: false
+  BeforeCatch: false
+  BeforeElse: false
+  BeforeLambdaBody: false
+  BeforeWhile: false
+  IndentBraces: false
+  SplitEmptyFunction: false
+  SplitEmptyRecord: false
+  SplitEmptyNamespace: false
+
+DeriveLineEnding: true
+UseCRLF: false
+
+PenaltyBreakAssignment: 2
+PenaltyBreakBeforeFirstCallParameter: 19
+PenaltyBreakComment: 300
+PenaltyBreakFirstLessLess: 120
+PenaltyBreakString: 1000
+PenaltyBreakTemplateDeclaration: 10
+PenaltyExcessCharacter: 1000000
+PenaltyReturnTypeOnItsOwnLine: 60
+
+AllowShortEnumsOnASingleLine: false
+AlwaysBreakBeforeMultilineStrings: false
+AlwaysBreakTemplateDeclarations: Yes
+BreakBeforeConceptDeclarations: true
+BreakStringLiterals: true
+ContinuationIndentWidth: 4
+Cpp11BracedListStyle: true
+DerivePointerAlignment: false
+DisableFormat: false
+ExperimentalAutoDetectBinPacking: false
+FixNamespaceComments: true
+IndentGotoLabels: true
+IndentWrappedFunctionNames: false
+ReflowComments: true
+RemoveBracesLLVM: false
+SortUsingDeclarations: true
