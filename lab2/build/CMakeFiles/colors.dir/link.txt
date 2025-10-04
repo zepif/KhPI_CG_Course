@@ -1,0 +1,2 @@
+C:\mingw\mingw64\bin\ar.exe qc libcolors.a CMakeFiles/colors.dir/src/color_spaces.cpp.obj CMakeFiles/colors.dir/src/bmp.cpp.obj CMakeFiles/colors.dir/src/histogram.cpp.obj CMakeFiles/colors.dir/src/color_transfer.cpp.obj CMakeFiles/colors.dir/src/region.cpp.obj CMakeFiles/colors.dir/src/cli.cpp.obj
+C:\mingw\mingw64\bin\ranlib.exe libcolors.a

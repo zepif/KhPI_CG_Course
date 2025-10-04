@@ -1,0 +1,9 @@
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/utils.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/colors.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/color_transfer.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/edit_cache.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/rebuild_cache.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/list_install_components.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/install.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/install/local.dir
+C:/fun/CG_labs_KhPI/lab2/build/CMakeFiles/install/strip.dir
